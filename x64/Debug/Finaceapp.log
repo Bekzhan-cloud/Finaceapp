@@ -1,0 +1,17 @@
+﻿  Account.cpp
+  AccountManager.cpp
+C:\Users\torob\OneDrive\Desktop\Бека 2 курс 2 семестр\ООП\СРС\Finaceapp\Finaceapp\AccountManager.cpp(89,47): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Analytics.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Category.cpp
+  ExportReport.cpp
+  Kopilka.cpp
+  Main.cpp
+  Transaction.cpp
+  UI.cpp
+C:\Users\torob\OneDrive\Desktop\Бека 2 курс 2 семестр\ООП\СРС\Finaceapp\Finaceapp\UI.cpp(28,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\torob\OneDrive\Desktop\Бека 2 курс 2 семестр\ООП\СРС\Finaceapp\Finaceapp\UI.cpp(106,21): warning C4566: символ, представленный универсальным именем символа "\u26A0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\torob\OneDrive\Desktop\Бека 2 курс 2 семестр\ООП\СРС\Finaceapp\Finaceapp\UI.cpp(106,21): warning C4566: символ, представленный универсальным именем символа "\uFE0F", невозможно представить в текущей кодовой странице (1251)
+  addtransaction.cpp
+  Создание кода...
+  Finaceapp.vcxproj -> C:\Users\torob\OneDrive\Desktop\Бека 2 курс 2 семестр\ООП\СРС\Finaceapp\x64\Debug\Finaceapp.exe
