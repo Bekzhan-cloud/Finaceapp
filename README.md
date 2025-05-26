@@ -38,7 +38,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/FinaceApp.git
+   git clone https://github.com/Bekzhan-cloud/Finaceapp.git
    ```
 2. Откройте проект в Visual Studio или любой другой IDE с поддержкой C++.
 3. Соберите проект и запустите `Main.cpp`.
